@@ -1,4 +1,4 @@
-# Boas vindas ao repositório do projeto <b>Playground Functions</b>
+# Boas vindas ao repositório do projeto <b>Playground Functions</b>!
 
 Esse projeto foi desenvolvido durante o módulo de Fundamentos na Trybe! #vqv 
 
